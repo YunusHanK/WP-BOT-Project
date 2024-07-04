@@ -4,7 +4,6 @@ WPBot is an automation bot for handling WhatsApp Web messages and attachments. I
 
 ## Features
 
-- Automatically logs into WhatsApp Web using QR code scanning.
 - Checks for new messages periodically.
 - Processes image albums, single images, and document files.
 - Moves and renames downloaded files to a target directory.
