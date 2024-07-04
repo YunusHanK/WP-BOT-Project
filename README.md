@@ -52,9 +52,9 @@ WPBot is an automation bot for handling WhatsApp Web messages and attachments. I
 Update the LDAP server information in the script:
 
 '''py
-ldap_server = 'ldap://DOMAIN'
-ldap_user = 'DOMAIN\\USER'
-ldap_password = 'PASSWORD'
+ldap_server = "ldap://DOMAIN"
+ldap_user = "DOMAIN\\USER"
+ldap_password = "PASSWORD"
 '''
 
 ### Target Directory
@@ -70,7 +70,7 @@ target_dir = "TARGET LOCATION"
 Set the ChromeDriver path:
 
 '''py
-chrome_driver_path = './chromedriver.exe'
+chrome_driver_path = "./chromedriver.exe"
 '''
 
 ## Logging
